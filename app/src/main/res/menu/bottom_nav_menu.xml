@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<menu xmlns:android="http://schemas.android.com/apk/res/android">
+    <item
+        android:id="@+id/homeFragment"
+        android:icon="@drawable/img_home"
+        android:title="Домой" />
+
+    <item
+        android:id="@+id/registrationFragment"
+        android:icon="@drawable/img_register"
+        android:title="Регистрация" />
+
+    <item
+        android:id="@+id/webFragment"
+        android:icon="@drawable/img_web"
+        android:title="WEB" />
+</menu>
